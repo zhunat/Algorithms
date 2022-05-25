@@ -1,9 +1,9 @@
 public class AreNumbersEqual {
 /*
-    Напишите алгоритм AreNumbersEqual, который принимает на вход 2 любых int числа, и возвращает
-    0, если числа равны
-   -1, если первое число меньше второго
-    1, если первое число больше второго
+    Write algorithm AreNumbersEqual, which accepts inputs 2  int numbers and returns
+    0, if numbers are equal
+   -1, if the second number is greater than the first number
+    1, if the first number is greater than the second number
 */
     public int areNumbersEqualAlgorithm(int a, int b){
         if(a == b) {
